@@ -1,2 +1,3 @@
 # PollyDemo
-Implementation of API resilience library Polly 
+Implementation of API resilience library Polly http://www.thepollyproject.org/
+
