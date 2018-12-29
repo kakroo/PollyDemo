@@ -13,7 +13,6 @@
 /Users/karan_kakroo/Documents/Make/My Git/PollyDemo/PollyDemo/bin/Debug/netcoreapp2.1/PollyDemo.runtimeconfig.dev.json
 /Users/karan_kakroo/Documents/Make/My Git/PollyDemo/PollyDemo/bin/Debug/netcoreapp2.1/PollyDemo.dll
 /Users/karan_kakroo/Documents/Make/My Git/PollyDemo/PollyDemo/bin/Debug/netcoreapp2.1/PollyDemo.pdb
-/Users/karan_kakroo/Documents/Make/My Git/PollyDemo/PollyDemo/obj/Debug/netcoreapp2.1/PollyDemo.csprojAssemblyReference.cache
 /Users/karan_kakroo/Documents/Make/My Git/PollyDemo/PollyDemo/obj/Debug/netcoreapp2.1/PollyDemo.csproj.CoreCompileInputs.cache
 /Users/karan_kakroo/Documents/Make/My Git/PollyDemo/PollyDemo/obj/Debug/netcoreapp2.1/PollyDemo.AssemblyInfoInputs.cache
 /Users/karan_kakroo/Documents/Make/My Git/PollyDemo/PollyDemo/obj/Debug/netcoreapp2.1/PollyDemo.AssemblyInfo.cs

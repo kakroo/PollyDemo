@@ -7,10 +7,13 @@ using Polly.Retry;
 
 namespace PollyDemo
 {
+    /// <summary>
+    /// Policy management via Polly.
+    /// </summary>
     public static class PolicyManagement
     {
 
-        //FINAL IMPLEMENTATION
+        // IMPLEMENTATION
         //For Get : using retry 5 times with retry time of 2 seconds + jitter of 0-2 seconds
         //For Put : retrying 3 times with retry time of 1 seconds for httpStatusCodesWorthRetrying (check this variable), anything other than these codes, it will not retry.
 
@@ -21,7 +24,10 @@ namespace PollyDemo
         static int maxTimeForJitter = 2000;
 
 
-
+        /// <summary>
+        /// Gets the policy for get calls.
+        /// </summary>
+        /// <returns>The policy for get calls.</returns>
         public static Policy GetPolicyForGetCalls()
         {
             try
@@ -50,7 +56,10 @@ namespace PollyDemo
             }
 
         }
-
+        /// <summary>
+        /// Gets the policy for post calls.
+        /// </summary>
+        /// <returns>The policy for post calls.</returns>
         public static RetryPolicy<HttpResponseMessage> GetPolicyForPostCalls()
         {
 
@@ -69,7 +78,10 @@ namespace PollyDemo
                            );
         }
        
-
+        /// <summary>
+        /// Fetchs the codes worth retrying.
+        /// </summary>
+        /// <returns>The codes worth retrying.</returns>
         public static HttpStatusCode[] FetchCodesWorthRetrying()
         {
             //TODO: Check if we need to add/remove some codes from here
