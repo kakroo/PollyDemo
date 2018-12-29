@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{31217B23-7F38-48B7-9039-730C926AA66D}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PollyDemo/PolicyManagement.cs">
+    <Files>
+      <File FileName="PollyDemo/Program.cs" Line="15" Column="1" />
+      <File FileName="PollyDemo/MyHttpClient.cs" Line="42" Column="14" />
+      <File FileName="PollyDemo/PolicyManagement.cs" Line="66" Column="1" />
+      <File FileName="PollyDemo/DummyCaller.cs" Line="16" Column="87" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.PollyDemo PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint enabled="false" file="/Users/karan_kakroo/Documents/Make/My Git/PollyDemo/PollyDemo/MyHttpClient.cs" relfile="PollyDemo/MyHttpClient.cs" line="30" column="1" />
+      <Breakpoint enabled="false" file="/Users/karan_kakroo/Documents/Make/My Git/PollyDemo/PollyDemo/MyHttpClient.cs" relfile="PollyDemo/MyHttpClient.cs" line="35" column="1" />
+      <Breakpoint enabled="false" file="/Users/karan_kakroo/Documents/Make/My Git/PollyDemo/PollyDemo/MyHttpClient.cs" relfile="PollyDemo/MyHttpClient.cs" line="39" column="1" />
+      <Breakpoint enabled="false" file="/Users/karan_kakroo/Documents/Make/My Git/PollyDemo/PollyDemo/MyHttpClient.cs" relfile="PollyDemo/MyHttpClient.cs" line="33" column="1" />
+      <Breakpoint enabled="false" file="/Users/karan_kakroo/Documents/Make/My Git/PollyDemo/PollyDemo/MyHttpClient.cs" relfile="PollyDemo/MyHttpClient.cs" line="51" column="74" />
+      <Breakpoint enabled="false" file="/Users/karan_kakroo/Documents/Make/My Git/PollyDemo/PollyDemo/MyHttpClient.cs" relfile="PollyDemo/MyHttpClient.cs" line="57" column="1" />
+      <Breakpoint enabled="false" file="/Users/karan_kakroo/Documents/Make/My Git/PollyDemo/PollyDemo/PolicyManagement.cs" relfile="PollyDemo/PolicyManagement.cs" line="74" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
